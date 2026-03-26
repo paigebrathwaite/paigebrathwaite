@@ -1,5 +1,6 @@
-## Hi there 👋
+## Hi there! 👋
 
+Hi! My name is Paige and I'm currently a Rutgers NB Senior. My github documents all of the projects I've worked on over the course of being at the university!
 <!--
 **paigebrathwaite/paigebrathwaite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
